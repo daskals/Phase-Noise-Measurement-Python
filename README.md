@@ -7,7 +7,7 @@ Our Objective: We are dedicated to demystifying the process of setting up and ex
 
 What's Inside: Initially, the script phasenoise_jitter.py will guide you through essential steps such as:
 
-Establishing a connection to a spectrum analyzer (using pyvisa library).
+Establishing a connection to a spectrum analyzer (using the pyvisa library).
 Configuring the analyzer for phase noise mode.
 Setting markers for precise phase noise and jitter measurements.
 Efficiently fetching and interpreting the measurement results.
