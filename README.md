@@ -1,7 +1,7 @@
 # PhaseNoiseMeasurement-Python
 ## Comprehensive Guidance on Measuring Phase Noise Using a Spectrum Analyzer and Python
 
-Welcome to the **PhaseNoiseMeasurement-Python** repository, your go-to resource for measuring phase noise with a spectrum analyzer, enhanced by the power of Python scripting. This repository is a work in progress, poised to offer rich content including code examples and in-depth explanations.
+Welcome to the **Phase-Noise-Measurement-Python** repository, your go-to resource for measuring phase noise with a spectrum analyzer, enhanced by the power of Python scripting. This repository is a work in progress, poised to offer rich content including code examples and in-depth explanations.
 
 ### Our Objective
 We are dedicated to demystifying the process of setting up and executing phase noise measurements. By harnessing the versatility of Python, we make these measurements more accessible and user-friendly. Our forthcoming Python script, named `phasenoise_jitter.py`, will serve as a practical tool in this endeavor.
@@ -15,7 +15,7 @@ For understanding the specific commands and functionalities of the N9020B MXA an
 - `N9068EM0E Phase Noise X-Series Measurement App with the Multi-Touch UI.pdf` - Technical Overview of the Phase Noise Measurement Application.
 
 ### What's Inside
-Initially, the script `phasenoise_jitter.py` will guide you through essential steps such as:
+Initially, the script `phase_noise_jitter.py` will guide you through essential steps such as:
 - Establishing a connection to a spectrum analyzer (using the `pyvisa` library).
 - Configuring the analyzer for phase noise mode.
 - Setting markers for precise phase noise and jitter measurements.
